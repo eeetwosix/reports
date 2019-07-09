@@ -3,5 +3,7 @@
 @section('content')
 
 @include('inc/navbar')
-home
+
+contact
+
 @endsection
