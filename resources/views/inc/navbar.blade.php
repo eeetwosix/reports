@@ -18,6 +18,9 @@
         <li class="nav-item">
             <a class="nav-link text-dark h2" href="/contact">Contact</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark h2" href="/posts">Posts</a>
+      </li>
         {{-- dropdown button --}}
         {{-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
